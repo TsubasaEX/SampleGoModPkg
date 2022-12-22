@@ -1,4 +1,4 @@
-package mygreeting
+package myshow
 
 import "fmt"
 
