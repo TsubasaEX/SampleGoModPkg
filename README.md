@@ -1,3 +1,3 @@
 # SampleGoModPkg
 
-This is a sample GO package for importing testing.
+This is a sample Go package for importing testing.
