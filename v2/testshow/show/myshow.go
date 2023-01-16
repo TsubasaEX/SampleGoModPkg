@@ -3,5 +3,5 @@ package myshow
 import "fmt"
 
 func ShowWithHelloV2(s string) {
-    fmt.Println("Show v2 " + s)
+    fmt.Println("Show with v2 " + s)
 }
