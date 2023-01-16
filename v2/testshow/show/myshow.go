@@ -2,6 +2,6 @@ package myshow
 
 import "fmt"
 
-func ShowWithHello(s string) {
+func ShowWithHelloV2(s string) {
     fmt.Println("Show v2 " + s)
 }
