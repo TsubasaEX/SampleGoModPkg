@@ -3,5 +3,5 @@ package mygreeting
 import "fmt"
 
 func SayWithHello(s string) {
-    fmt.Println("Hello" + s)
+    fmt.Println("Hello v2 testing" + s)
 }
